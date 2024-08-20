@@ -1,11 +1,10 @@
-{"name":"YGKING", "description":"随意收集", "icons":[
-{"name":"YGKING","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/emokui.png"},
-{"name":"Surge","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/Surge.png"},
-{"name":"Telegram","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/Telegram.png"},
-{"name":"Google","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/Google.png"},
-{"name":"Microsoft","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/Microsoft.png"},
-{"name":"Youtube","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/Youtube.png"},
-{"name":"TikTok","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/TikTok.png"},
-{"name":"Paypal","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/Paypal.png"},
-{"name":"ChatGPT","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/ChatGPT.png"},
-{"name":"BiliBili","url":"https://raw.githubusercontent.com/whylucky/ios/main/icon/color/BiliBili.png.png"}]}
+{"name":"whydz", "description":"私人定制", "icons":[
+{"name":"Loon","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Loon.PNG"},
+{"name":"Quantumult X","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Quantumult X.PNG"},
+{"name":"Surge","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Surge.PNG"},
+{"name":"Telegram","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Telegram.PNG"},
+{"name":"YouTube","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/YouTube.PNG"},
+{"name":"ChatGPT","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/ChatGPT.PNG"},
+{"name":"Apple","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Apple.PNG"},
+{"name":"Google","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Google.PNG"},
+{"name":"Microsoft","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Microsoft.PNG"}]}

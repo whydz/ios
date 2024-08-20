@@ -1,10 +1,10 @@
 {"name":"whydz", "description":"私人定制", "icons":[
-{"name":"Loon","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Loon.PNG"},
-{"name":"Quantumult X","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Quantumult X.PNG"},
-{"name":"Surge","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Surge.PNG"},
-{"name":"Telegram","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Telegram.PNG"},
-{"name":"YouTube","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/YouTube.PNG"},
-{"name":"ChatGPT","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/ChatGPT.PNG"},
-{"name":"Apple","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Apple.PNG"},
-{"name":"Google","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Google.PNG"},
-{"name":"Microsoft","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Microsoft.PNG"}]}
+{"name":"Loon","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/app/Loon.png"},
+{"name":"Quantumult X","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/app/Quantumult X.png"},
+{"name":"Surge","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/app/Surge.png"},
+{"name":"Telegram","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/app/Telegram.png"},
+{"name":"YouTube","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/app/YouTube.png"},
+{"name":"ChatGPT","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/app/ChatGPT.png"},
+{"name":"Apple","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/app/Apple.png"},
+{"name":"Google","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/app/Google.png"},
+{"name":"Microsoft","url":"https://raw.githubusercontent.com/whydz/ios/main/icon/color/Microsoft.png"}]}

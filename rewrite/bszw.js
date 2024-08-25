@@ -1,7 +1,7 @@
 /*
- * 笔神作文
+*笔神作文
 [rewrite_local]
-https://v4.api.bishen.ink/api url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/main/bszw.js
+https://v4.api.bishen.ink/api url script-response-body https://raw.githubusercontent.com/whydz/rewrite/main/bszw.js
 [mitm]
 hostname = *.api.bishen.ink
 */

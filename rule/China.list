@@ -33,3 +33,16 @@ DOMAIN,m.svw-volkswagen.com
 DOMAIN,static.svw-volkswagen.com
 DOMAIN-SUFFIX,csvw.com
 DOMAIN-SUFFIX,svw-volkswagen.com
+DOMAIN,datain.longfor.com
+DOMAIN,gw2c-hw-open.longfor.com
+DOMAIN,llt.longfor.com
+DOMAIN,longzhu-api.longfor.com
+DOMAIN,s.longfor.com
+DOMAIN,openapi.longfor.com
+DOMAIN,devops-prod.longfor.com
+DOMAIN,c2member.longfor.com
+DOMAIN,c2-openapi.longfor.com
+DOMAIN,ly-sta.longhu.net
+DOMAIN,ly-ver.longhu.net
+DOMAIN-SUFFIX,longfor.com
+DOMAIN-SUFFIX,longhu.net

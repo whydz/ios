@@ -47,5 +47,7 @@ DOMAIN,ly-ver.longhu.net
 DOMAIN-SUFFIX,longfor.com
 DOMAIN-SUFFIX,longhu.net
 DOMAIN,r10.o.lencr.org
+DOMAIN,ocsp.digicert.cn
 DOMAIN,inappcheck.itunes.apple.com
 DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,digicert.cn

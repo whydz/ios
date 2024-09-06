@@ -46,3 +46,6 @@ DOMAIN,ly-sta.longhu.net
 DOMAIN,ly-ver.longhu.net
 DOMAIN-SUFFIX,longfor.com
 DOMAIN-SUFFIX,longhu.net
+DOMAIN,itunes.apple.com
+DOMAIN,inappcheck.itunes.apple.com
+DOMAIN-SUFFIX,apple.com

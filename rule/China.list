@@ -46,8 +46,10 @@ DOMAIN,ly-sta.longhu.net
 DOMAIN,ly-ver.longhu.net
 DOMAIN-SUFFIX,longfor.com
 DOMAIN-SUFFIX,longhu.net
-DOMAIN,r10.o.lencr.org
-DOMAIN,ocsp.digicert.cn
+DOMAIN,app.localhost.direct
+DOMAIN,itunes.apple.com
 DOMAIN,inappcheck.itunes.apple.com
-DOMAIN-SUFFIX,lencr.org
-DOMAIN-SUFFIX,digicert.cn
+DOMAIN,ocsp2.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,gateway.icloud.com.cn
+DOMAIN,p216-fmf.icloud.com.cn

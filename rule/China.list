@@ -61,3 +61,6 @@ DOMAIN,image-c.weimobwmc.com
 DOMAIN-SUFFIX,weimob.com
 DOMAIN-SUFFIX,weimobdc.com
 DOMAIN-SUFFIX,weimobwmc.com
+DOMAIN,app.geely.com
+DOMAIN,ubpdata.geely.com
+DOMAIN-SUFFIX,geely.com

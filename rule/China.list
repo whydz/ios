@@ -81,3 +81,8 @@ DOMAIN,hweb-channel.huazhu.com
 DOMAIN,hweb-personalcenter.huazhu.com
 DOMAIN,hweb-servicechannel.huazhu.com
 DOMAIN-SUFFIX,huazhu.com
+DOMAIN,vip-cdn.ixiliu.cn
+DOMAIN,xh-img.a-touchin.com
+DOMAIN,xh-vip-api.a-touchin.com
+DOMAIN-SUFFIX,ixiliu.cn
+DOMAIN-SUFFIX,a-touchin.com

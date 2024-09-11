@@ -64,3 +64,7 @@ DOMAIN-SUFFIX,weimobwmc.com
 DOMAIN,app.geely.com
 DOMAIN,ubpdata.geely.com
 DOMAIN-SUFFIX,geely.com
+DOMAIN,capi.risingauto.com
+DOMAIN,oss-sales.risingauto.com
+DOMAIN,ty-datakit.risingauto.com
+DOMAIN-SUFFIX,risingauto.com

@@ -68,3 +68,16 @@ DOMAIN,capi.risingauto.com
 DOMAIN,oss-sales.risingauto.com
 DOMAIN,ty-datakit.risingauto.com
 DOMAIN-SUFFIX,risingauto.com
+DOMAIN,img.huazhu.com
+DOMAIN,snssdk.huazhu.com
+DOMAIN,res-pub.huazhu.com
+DOMAIN,apm-api.huazhu.com
+DOMAIN,newactivity.huazhu.com
+DOMAIN,hmall-static.huazhu.com
+DOMAIN,htravelserver.huazhu.com
+DOMAIN,api-hweb-hzh.huazhu.com
+DOMAIN,hweb-hotel.huazhu.com
+DOMAIN,hweb-channel.huazhu.com
+DOMAIN,hweb-personalcenter.huazhu.com
+DOMAIN,hweb-servicechannel.huazhu.com
+DOMAIN-SUFFIX,huazhu.com

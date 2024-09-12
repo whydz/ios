@@ -20,12 +20,15 @@ DOMAIN,v3-reading-video.qznovelvod.com
 DOMAIN,v5-reading-video.qznovelvod.com
 DOMAIN,v26-reading-video.qznovelvod.com
 DOMAIN-SUFFIX,qznovelvod.com
+DOMAIN,wap.exijiu.cn
 DOMAIN,jf.exijiu.com
 DOMAIN,fm-jf.exijiu.com
 DOMAIN,cannon-jf.exijiu.com
 DOMAIN,apimallwm.exijiu.com
 DOMAIN,public-prod.exijiu.com
+DOMAIN,zhdl-dl.gzxijiu.com
 DOMAIN-SUFFIX,exijiu.com
+DOMAIN-SUFFIX,gzxijiu.com
 DOMAIN,api.mos.csvw.com
 DOMAIN,appdc.mos.csvw.com
 DOMAIN,mos-public-prod.mos.csvw.com
@@ -99,9 +102,11 @@ DOMAIN,haowu-mp-oss.halvie.com
 DOMAIN,zkmall-apigw.halvie.com
 DOMAIN,haohan-socket-prod.haohanpower.tech
 DOMAIN,galaxy-gateway-prod.haohanpower.tech
+DOMAIN,mlvbdc.live.tlivesource.com
 DOMAIN-SUFFIX,zeekrlife.com
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,haohanpower.tech
+DOMAIN-SUFFIX,tlivesource.com
 DOMAIN,res.paquapp.com
 DOMAIN,popvip.paquapp.com
 DOMAIN,datasink.paquapp.com

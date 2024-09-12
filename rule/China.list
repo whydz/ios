@@ -95,3 +95,8 @@ DOMAIN,api-gw-toc.zeekrlife.com
 DOMAIN,zeekrlife-oss.zeekrlife.com
 DOMAIN,touchpoint-api.zeekrlife.com
 DOMAIN-SUFFIX,zeekrlife.com
+DOMAIN,res.paquapp.com
+DOMAIN,popvip.paquapp.com
+DOMAIN,datasink.paquapp.com
+DOMAIN,prod-boxlite-cdn.paquapp.com
+DOMAIN-SUFFIX,paquapp.com

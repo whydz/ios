@@ -1,14 +1,14 @@
 # 万达
-DOMAIN-SUFFIX,wandawic.com
-DOMAIN-SUFFIX,wandawic.cn
 DOMAIN-SUFFIX,wanda.cn
+DOMAIN-SUFFIX,wandawic.cn
+DOMAIN-SUFFIX,wandawic.com
 # 伊利
 DOMAIN-SUFFIX,yili.com
 DOMAIN-SUFFIX,digitalyili.com
 # 小蚕霸王餐
 DOMAIN-SUFFIX,xinyifm.cn
-DOMAIN-SUFFIX,realtech-inc.com
 DOMAIN-SUFFIX,xiaocantech.com
+DOMAIN-SUFFIX,realtech-inc.com
 # 红果短剧
 DOMAIN-SUFFIX,qznovelvod.com
 # 习酒
@@ -19,11 +19,11 @@ DOMAIN-SUFFIX,gzxijiu.com
 DOMAIN-SUFFIX,csvw.com
 DOMAIN-SUFFIX,svw-volkswagen.com
 # 龙湖
-DOMAIN-SUFFIX,longfor.com
 DOMAIN-SUFFIX,longhu.net
+DOMAIN-SUFFIX,longfor.com
 # SuperVIP
-DOMAIN-SUFFIX,lenglengyu.com
 DOMAIN-SUFFIX,sharepoint.cn
+DOMAIN-SUFFIX,lenglengyu.com
 # AssppPro
 DOMAIN-SUFFIX,localhost.direct
 # 蜜雪冰城
@@ -46,9 +46,9 @@ DOMAIN-SUFFIX,fuioupay.com
 # IOS逆向助手
 DOMAIN-SUFFIX,guyubao.com
 # 极氮
-DOMAIN-SUFFIX,zeekrlife.com
 DOMAIN-SUFFIX,halvie.com
-DOMAIN-SUFFIX,haohanpower.tech
+DOMAIN-SUFFIX,zeekrlife.com
 DOMAIN-SUFFIX,tlivesource.com
+DOMAIN-SUFFIX,haohanpower.tech
 # 泡泡玛特
 DOMAIN-SUFFIX,paquapp.com

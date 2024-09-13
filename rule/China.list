@@ -1,14 +1,17 @@
+# 万达
 DOMAIN,www.wandawic.com
 DOMAIN,static.wandawic.cn
 DOMAIN,ma-datasink.wanda.cn
 DOMAIN-SUFFIX,wandawic.com
 DOMAIN-SUFFIX,wandawic.cn
 DOMAIN-SUFFIX,wanda.cn
+# 伊利
 DOMAIN,digitaldmo.yili.com
 DOMAIN,apm-browser.digitalyili.com
 DOMAIN,msmarket.msx.digitalyili.com
 DOMAIN-SUFFIX,yili.com
 DOMAIN-SUFFIX,digitalyili.com
+# 小蚕霸王餐
 DOMAIN,web.xinyifm.cn
 DOMAIN,web2.realtech-inc.com
 DOMAIN,gw.xiaocantech.com
@@ -16,10 +19,12 @@ DOMAIN,buryingapi.xiaocantech.com
 DOMAIN-SUFFIX,xinyifm.cn
 DOMAIN-SUFFIX,realtech-inc.com
 DOMAIN-SUFFIX,xiaocantech.com
+# 红果短剧
 DOMAIN,v3-reading-video.qznovelvod.com
 DOMAIN,v5-reading-video.qznovelvod.com
 DOMAIN,v26-reading-video.qznovelvod.com
 DOMAIN-SUFFIX,qznovelvod.com
+# 习酒
 DOMAIN,wap.exijiu.cn
 DOMAIN,jf.exijiu.com
 DOMAIN,fm-jf.exijiu.com
@@ -30,6 +35,7 @@ DOMAIN,zhdl-dl.gzxijiu.com
 DOMAIN-SUFFIX,exijiu.cn
 DOMAIN-SUFFIX,exijiu.com
 DOMAIN-SUFFIX,gzxijiu.com
+# 上汽大众
 DOMAIN,api.mos.csvw.com
 DOMAIN,appdc.mos.csvw.com
 DOMAIN,mos-public-prod.mos.csvw.com
@@ -37,6 +43,7 @@ DOMAIN,m.svw-volkswagen.com
 DOMAIN,static.svw-volkswagen.com
 DOMAIN-SUFFIX,csvw.com
 DOMAIN-SUFFIX,svw-volkswagen.com
+# 龙湖
 DOMAIN,s.longfor.com
 DOMAIN,llt.longfor.com
 DOMAIN,datain.longfor.com
@@ -50,13 +57,17 @@ DOMAIN,ly-sta.longhu.net
 DOMAIN,ly-ver.longhu.net
 DOMAIN-SUFFIX,longfor.com
 DOMAIN-SUFFIX,longhu.net
+# SuperVIP
 DOMAIN,lenglengyu.com
 DOMAIN,pan.lenglengyu.com
 DOMAIN,lenglengyu-my.sharepoint.cn
+# AssppPro
 DOMAIN,app.localhost.direct
+# 蜜雪冰城
 DOMAIN,mxsa.mxbc.net
 DOMAIN,mxsa-oss.mxbc.net
 DOMAIN-SUFFIX,mxbc.net
+# 蒙牛
 DOMAIN,xapi.weimob.com
 DOMAIN,cdn2.weimob.com
 DOMAIN,track.weimob.com
@@ -65,13 +76,16 @@ DOMAIN,image-c.weimobwmc.com
 DOMAIN-SUFFIX,weimob.com
 DOMAIN-SUFFIX,weimobdc.com
 DOMAIN-SUFFIX,weimobwmc.com
+# 吉利汽车
 DOMAIN,app.geely.com
 DOMAIN,ubpdata.geely.com
 DOMAIN-SUFFIX,geely.com
+# 飞凡汽车
 DOMAIN,capi.risingauto.com
 DOMAIN,oss-sales.risingauto.com
 DOMAIN,ty-datakit.risingauto.com
 DOMAIN-SUFFIX,risingauto.com
+# 华住会
 DOMAIN,img.huazhu.com
 DOMAIN,snssdk.huazhu.com
 DOMAIN,res-pub.huazhu.com
@@ -85,15 +99,19 @@ DOMAIN,hweb-channel.huazhu.com
 DOMAIN,hweb-personalcenter.huazhu.com
 DOMAIN,hweb-servicechannel.huazhu.com
 DOMAIN-SUFFIX,huazhu.com
+# 杰士邦
 DOMAIN,vip-cdn.ixiliu.cn
 DOMAIN,xh-img.a-touchin.com
 DOMAIN,xh-vip-api.a-touchin.com
 DOMAIN-SUFFIX,ixiliu.cn
 DOMAIN-SUFFIX,a-touchin.com
+# 富友缴费通
 DOMAIN,cdn.fuioupay.com
 DOMAIN,jftpay.fuioupay.com
 DOMAIN-SUFFIX,fuioupay.com
+# IOS逆向助手
 DOMAIN,uz1mzm22i185.guyubao.com
+# 极氮
 DOMAIN,jpc.zeekrlife.com
 DOMAIN,api-gw-toc.zeekrlife.com
 DOMAIN,snc-tsp-api.zeekrlife.com
@@ -108,6 +126,7 @@ DOMAIN-SUFFIX,zeekrlife.com
 DOMAIN-SUFFIX,halvie.com
 DOMAIN-SUFFIX,haohanpower.tech
 DOMAIN-SUFFIX,tlivesource.com
+# 泡泡玛特
 DOMAIN,res.paquapp.com
 DOMAIN,popvip.paquapp.com
 DOMAIN,datasink.paquapp.com

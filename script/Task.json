@@ -14,7 +14,7 @@
       "scripts": [
         {
           "name": "福田e家-手动执行",
-          "script": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/FTEJ/FTEJ.js"
+          "script": "https://raw.githubusercontent.com/whydz/ios/main/script/Foton.js"
         }
       ],
       "settings": [
@@ -28,7 +28,7 @@
       ],
       "author": "whydz",
       "repo": "https://github.com/whydz/ios",
-      "script": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/FTEJ/FTEJ.js",
+      "script": "https://raw.githubusercontent.com/whydz/ios/main/script/Foton.js",
       "icons": [
         "https://raw.githubusercontent.com/whydz/ios/main/icon/app/Foton.png",
         "https://raw.githubusercontent.com/whydz/ios/main/icon/app/Foton.png"

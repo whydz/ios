@@ -6,20 +6,20 @@
   "repo": "https://github.com/whydz/ios",
   "apps": [
     {
-      "id": "FTEJ",
+      "id": "Foton",
       "name": "福田e家",
       "keys": [
-        "FTEJ"
+        "Foton"
       ],
       "scripts": [
         {
           "name": "福田e家-手动执行",
-          "script": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/FTEJ/FTEJ.js"
+          "script": "https://raw.githubusercontent.com/whydz/ios/main/script/Foton.js"
         }
       ],
       "settings": [
         {
-          "id": "FTEJ",
+          "id": "Foton",
           "name": "账号密码",
           "val": "",
           "type": "text",
@@ -35,27 +35,27 @@
       ]
     },
    {
-      "id": "HaiXing",
+      "id": "Haixing",
       "name": "海星",
       "keys": [
-        "HaiXing"
+        "Haixing"
       ],
       "scripts": [
         {
           "name": "海星-手动执行",
-          "script": "https://raw.githubusercontent.com/xzxxn777/Surge/main/Script/HaiXing/HaiXing.js"
+          "script": "https://raw.githubusercontent.com/whydz/ios/main/script/Haixing.js"
         }
       ],
       "settings": [
         {
-          "id": "HaiXing",
+          "id": "Haixing",
           "name": "账号token",
           "val": "",
           "type": "text",
           "desc": "格式:账号1&token1 账号2&token2"
         }
       ],
-      "author": "@xzxxn777",
+      "author": "whydz",
       "repo": "https://github.com/whydz/ios",
       "script": "https://raw.githubusercontent.com/whydz/ios/main/script/Haixing.js",
       "icons": [

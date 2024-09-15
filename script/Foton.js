@@ -1,9 +1,9 @@
 /**
- * cron "39 11,19 * * *" FTEJ.js
- * export FTEJ="账号1&密码1 账号2&密码2"
+ * cron "39 11,19 * * *" Foton.js
+ * export Foton="账号1&密码1 账号2&密码2"
  */
 const $ = new Env('福田e家')
-const FTEJ = ($.isNode() ? process.env.FTEJ : $.getdata("FTEJ")) || '';
+const Foton = ($.isNode() ? process.env.FTEJ : $.getdata("Foton")) || '';
 let phone = ''
 let password = ''
 let token = ''
@@ -13,13 +13,13 @@ let notice = ''
 })().catch((e) => {$.log(e)}).finally(() => {$.done({});});
 
 async function main() {
-    console.log('作者：@xzxxn777\n频道：https://t.me/xzxxn777\n群组：https://t.me/xzxxn7777\n自用机场推荐：https://xn--diqv0fut7b.com\n')
-    if (!FTEJ) {
+    console.log('作者：whydz')
+    if (!Foton) {
         console.log("先去boxjs填写账号密码")
         await sendMsg('先去boxjs填写账号密码');
         return
     }
-    let arr = FTEJ.split(" ");
+    let arr = Foton.split(" ");
     for (const item of arr) {
         phone = item.split("&")[0]
         password = item.split("&")[1]

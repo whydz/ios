@@ -3,7 +3,7 @@
  * export Foton="账号1&密码1 账号2&密码2"
  */
 const $ = new Env('福田e家')
-const Foton = ($.isNode() ? process.env.FTEJ : $.getdata("Foton")) || '';
+const Foton = ($.isNode() ? process.env.Foton : $.getdata("Foton")) || '';
 let phone = ''
 let password = ''
 let token = ''

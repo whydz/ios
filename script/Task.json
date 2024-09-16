@@ -33,35 +33,6 @@
         "https://raw.githubusercontent.com/whydz/ios/main/icon/app/Foton.png",
         "https://raw.githubusercontent.com/whydz/ios/main/icon/app/Foton.png"
       ]
-    },
-   {
-      "id": "Haixing",
-      "name": "海星",
-      "keys": [
-        "Haixing"
-      ],
-      "scripts": [
-        {
-          "name": "海星-手动执行",
-          "script": "https://raw.githubusercontent.com/whydz/ios/main/script/Haixing.js"
-        }
-      ],
-      "settings": [
-        {
-          "id": "Haixing",
-          "name": "账号token",
-          "val": "",
-          "type": "text",
-          "desc": "格式:账号1&token1 账号2&token2"
-        }
-      ],
-      "author": "whydz",
-      "repo": "https://github.com/whydz/ios",
-      "script": "https://raw.githubusercontent.com/whydz/ios/main/script/Haixing.js",
-      "icons": [
-        "https://raw.githubusercontent.com/whydz/ios/main/icon/app/Haixing.png",
-        "https://raw.githubusercontent.com/whydz/ios/main/icon/app/Haixing.png"
-      ]
     }
   ]
 }

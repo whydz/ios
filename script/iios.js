@@ -1,6 +1,6 @@
 /*
 new Env('iios-苹果软件站');
-@Author: Leiyiyan
+@Author: Whydz
 @Date: 2024-09-17 20:00
 
 @Description:
@@ -17,7 +17,7 @@ BoxJs订阅地址:
 https://raw.githubusercontent.com/leiyiyan/resource/main/subscribe/leiyiyan.boxjs.json
 
 [Script]
-cron "0 7 * * *" script-path=https://raw.githubusercontent.com/leiyiyan/resource/main/script/iios/iios.js, tag=iios日常任务
+cron "0 7 * * *" script-path=https://raw.githubusercontent.com/whydz/ios/refs/heads/main/script/iios.js, tag=iios日常任务
 
 
 ====================================

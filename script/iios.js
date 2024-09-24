@@ -14,7 +14,7 @@ iios-苹果软件站: 完成每日签到、观看教程任务。
 
 ------------------------------------------------------------------------------
 BoxJs订阅地址: 
-https://raw.githubusercontent.com/leiyiyan/resource/main/subscribe/leiyiyan.boxjs.json
+https://raw.githubusercontent.com/whydz/ios/refs/heads/main/script/Task.json
 
 [Script]
 cron "0 7 * * *" script-path=https://raw.githubusercontent.com/whydz/ios/refs/heads/main/script/iios.js, tag=iios日常任务

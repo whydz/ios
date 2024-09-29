@@ -16,7 +16,7 @@ let openId = ''
 let unionId = ''
 let type = '2'
 let type1 = '2'
-let YiLi_Code = ['杨科凤邀您来伊利拿礼','宋明菊邀您来伊利拿礼','曾秀君邀您来伊利拿礼','熊心灵邀您来伊利拿礼','童春燕邀您来伊利拿礼','何丽娟邀您来伊利拿礼','文梅邀您来伊利拿礼','宋莉邀您来伊利拿礼'];
+let YiLi_Code = ['翟芳邀您来伊利拿礼','韩海莉邀您来伊利拿礼','郝银爱邀您来伊利拿礼','王素红邀您来伊利拿礼','黄思梦邀您来伊利拿礼','朱梦婷邀您来伊利拿礼','曹彩花邀您来伊利拿礼','何维邀您来伊利拿礼','杨慧庆邀您来伊利拿礼','廖艳邀您来伊利拿礼']
 let notice = ''
 !(async () => {
     if (typeof $request != "undefined") {
@@ -63,11 +63,14 @@ async function main() {
             let seePage = await commonGet(`/fragment/ticket/see-page?openId=${openId}`)
             console.log(`浏览：${seePage.message}`)
         }
-        for (let code of YiLi_Code) {
+        if (YiLi_Code.length) {
             let authorize = await yiLiGet(`/developer/oauth2/buyer/authorize?app_key=zdcade261b48eb4c5e`)
             if (authorize.data) {
-                let inputCode = await commonGet(`/fragment/ticket/input-code?code=${encodeURIComponent(code)}&authorizationCode=${authorize.data}&openId=${openId}`)
-                console.log(`口令：${code} 兑换：${inputCode.message}`)
+                for (var i = 0; i < YiLi_Code.length; i++) {
+                    //console.log(aa[i]);
+                    let inputCode = await commonGet(`/fragment/ticket/input-code?code=${encodeURIComponent(YiLi_Code[i])}&authorizationCode=${authorize.data}&openId=${openId}`,'aes')
+                    console.log(`口令兑换：${inputCode.message}`)
+                }
             } else {
                 console.log(authorize?.error?.msg)
                 await sendMsg(`用户：${mobile}\nyiliToken已过期，请重新获取`);
@@ -82,8 +85,8 @@ async function main() {
         let cardInfo = await commonGet(`/fragmentActivity/fragment?activityId=2&openId=${openId}`)
         for (let card of cardInfo.data) {
             console.log(`卡片：${card.fragmentName} 数量：${card.num}`)
-            if (card.num > 1 && YiLi_Open) {
-                for (let i = 1; i < card.num; i++) {
+            if (card.num > 0 && YiLi_Open) {
+                for (let i = 0; i < card.num; i++) {
                     let openPrize = await commonGet(`/fragmentActivity/open-prize?fragmentId=${card.fragmentId}&activityId=2&openId=${openId}`)
                     console.log(`翻卡获得：${openPrize.data.prizeName}`)
                     notice += `用户${mobile} 翻卡获得：${openPrize.data.prizeName}\n`

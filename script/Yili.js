@@ -16,7 +16,18 @@ let openId = ''
 let unionId = ''
 let type = '2'
 let type1 = '2'
-let YiLi_Code = [];
+let YiLi_Code = [
+'欢度国庆伊利情浓',
+'杨科凤邀您来伊利拿礼',
+'宋明菊邀您来伊利拿礼',
+'曾秀君邀您来伊利拿礼',
+'熊心灵邀您来伊利拿礼',
+'童春燕邀您来伊利拿礼',
+'何丽娟邀您来伊利拿礼',
+'文梅邀您来伊利拿礼',
+'宋莉邀您来伊利拿礼',
+'王容邀您来伊利拿礼',
+'杨苗邀您来伊利拿礼'];
 let notice = ''
 !(async () => {
     if (typeof $request != "undefined") {

@@ -69,7 +69,7 @@ async function main() {
                 for (var i = 0; i < YiLi_Code.length; i++) {
                     //console.log(aa[i]);
                     let inputCode = await commonGet(`/fragment/ticket/input-code?code=${encodeURIComponent(YiLi_Code[i])}&authorizationCode=${authorize.data}&openId=${openId}`,'aes')
-                    console.log(`口令兑换：${inputCode.message}`)
+                    console.log(口令(${encodeURIComponent(YiLi_Code[i])})：${inputCode.message})
                 }
             } else {
                 console.log(authorize?.error?.msg)

@@ -19,7 +19,7 @@ from sys import exit
 import requests
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
-os.environ['NEW_VAR'] ='sfsyUrl' #环境变量
+os.environ['NEW_VAR'] ='https://mcs-mimp-web.sf-express.com/mcs-mimp/share/weChat/activityRedirect?source=CX&unionId=ci1xUAs7xH5rhuqSjhAk0reE9FV8ysg2VYWh1XY0LhQ%3D&openId=%2BJIkU%2FWcBtCv1V6umMl36ZYUcb4ts5yABW5WBLpYXXw%3D&memId=GN1EbijKbiiHo7LLg5ZZXpmVUUiDdDhOQzR5Aw4mmGkDdjSr%2F6X0WoiZtgGzs7sG&memNo=6tB15T6k0ZvyroDMcHJm6Rk3pYSPNVkq%2Fl4e27QFjK8DdjSr%2F6X0WoiZtgGzs7sG&mobile=%2FkT%2FY5vHKg7kKSJnv44GvA%3D%3D&mediaCode=wxapp&bizCode=%7B%22path%22%3A%22%2Fup-member%2FnewPoints%22%2C%22linkCode%22%3A%22SFAC20230803190840424%22%2C%22supportShare%22%3A%22YES%22%2C%22subCategoryCode%22%3A%221%22%2C%22from%22%3A%22mypoint%22%2C%22categoryCode%22%3A%221%22%7D' #环境变量
 # 禁用安全请求警告
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 

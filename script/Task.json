@@ -8,8 +8,8 @@
     {
       "id": "iios",
       "name": "iios-苹果软件站",
-      "author": "Whydz",
-      "repo": "",
+      "author": "whydz",
+      "repo": "https://github.com/whydz/ios",
       "icons": [
         "https://raw.githubusercontent.com/whydz/ios/refs/heads/main/icon/other/iios.png",
         "https://raw.githubusercontent.com/whydz/ios/refs/heads/main/icon/other/iios.png"

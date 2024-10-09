@@ -11,8 +11,8 @@
       "author": "whydz",
       "repo": "https://github.com/whydz/ios",
       "icons": [
-        "https://raw.githubusercontent.com/whydz/ios/refs/heads/main/icon/other/iios.png",
-        "https://raw.githubusercontent.com/whydz/ios/refs/heads/main/icon/other/iios.png"
+        "https://raw.githubusercontent.com/whydz/ios/refs/heads/main/icon/app/iios.png",
+        "https://raw.githubusercontent.com/whydz/ios/refs/heads/main/icon/app/iios.png"
       ],
       "keys": [
         "iios_data"

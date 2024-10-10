@@ -38,16 +38,7 @@ const notify = $.isNode() ? require('./sendNotify') : '';
 let envSplitor = ["@"]; //多账号分隔符
 // var userCookie = ($.isNode() ? process.env[ckName] : $.getdata(ckName)) || '';
 var userCookie = ($.isNode() ? require('./xmyx_token.json') : $.getdata(ckName)) || '';
-let userList = [
-  { taskName: "浏览粮油专场10秒", taskType: "XXGG", time: 11 },
-  { taskName: "浏览热销榜单10秒", taskType: "LLZTY", time: 11 },
-  { taskName: "浏览热销爆品", taskType: "TZSPXQ2", time: 3 },
-  { taskName: "浏览视频10秒", taskType: "LLSP", time: 11 },
-  { taskName: "打开签到提醒", taskType: "YXDY", time: 3 },
-  { taskName: "大转盘抽奖", taskType: "YXDZP", time: 3 },
-  { taskName: "购买任意商品1次", taskType: "YXXD", time: 3 },
-  { taskName: "查看优惠券", taskType: "LLYHJ", time: 3 },
-  { taskName: "补签赚积分", taskType: "YXBQ", time: 3 }];
+let userList = [];
 let userIdx = 0;
 let userCount = 0;
 // 调试
